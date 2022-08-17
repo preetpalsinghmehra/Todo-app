@@ -1,0 +1,43 @@
+.form {
+  padding: 10px;
+}
+
+.form input {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 4px;
+  width: 390px;
+  font-size: x-small;
+}
+
+.form input[type="text"] {
+  display: inline-block;
+  width: 182px;
+}
+
+.dob p {
+  font-size: xx-small;
+  color: gray;
+  margin-left: 4px;
+}
+
+.radio {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+.radio label {
+  border-width: 200px;
+  border-radius: 4px solid red;
+  font-size: x-small;
+}
+
+.radio input {
+  display: inline;
+  width: 20px;
+}
+
+.text{
+    margin-left: 5px;
+}
